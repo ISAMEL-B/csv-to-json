@@ -1,0 +1,25 @@
+{
+    "name": "mylibrary/csv-to-json",
+    "description": "A library to convert CSV files to JSON format.",
+    "type": "library",
+    "keywords": ["csv", "json", "conversion", "php"],
+    "homepage": "https://github.com/ISAMEL-B/csv-to-json",
+    "license": "MUST",
+    "authors": [
+        {
+            "name": "Byaruhanga Isamel",
+            "email": "byaruhangaisamelk@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MyLibrary\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

@@ -1,0 +1,11 @@
+id,name,email,age,city,Student,Math,Science,English,History,Geography
+1,John Doe,Isamel@must.com,28,New York,Alice,85,90,88,92,89
+2,Jane Smith,jane@must.com,34,Los Angeles,Bob,92,88,85,91,86
+3,Mark Johnson,mark@must.com,22,Chicago,Charlie,78,84,90,85,92
+4,Emily Davis,emily@must.com,19,Houston,David,88,86,84,89,87
+5,Michael Brown,michael@must.com,41,San Francisco,Eva,95,92,93,96,90
+,,,,Frank,70,75,78,73,80
+,,,,Grace,80,85,82,81,83
+,,,,Helen,91,93,91,94,95
+,,,,Ivy,89,87,89,88,86
+,,,,Jack,76,80,77,79,75

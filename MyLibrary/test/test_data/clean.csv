@@ -1,0 +1,9 @@
+EmployeeID,FirstName,LastName,Email,Phone,Department,Position,DateOfJoining,Salary,Status
+E001,John,Doe,byk.isamel@must.com,+1234567890,Engineering,Software Engineer,2020-05-15,75000,Active
+E002,Jane,Smith,jane.ariho@must.com,+9876543210,Marketing,Marketing Manager,2018-07-23,65000,Active
+E003,Michael,Brown,michael.brown@must.com,+1928374650,HR,HR Specialist,2019-03-10,60000,Active
+E004,Susan,Johnson,susan.johnson@must.com,+1029384756,Engineering,Quality Analyst,2021-01-20,55000,Active
+E005,Robert,Lee,robert.lee@must.com,+5647382910,Sales,Sales Executive,2017-11-12,50000,Inactive
+E006,Linda,Williams,linda.williams@must.com,+6738291045,Engineering,DevOps Engineer,2016-04-28,80000,Active
+E007,David,Martinez,david.martinez@must.com,+3847561920,Finance,Accountant,2019-08-14,70000,Active
+E008,Mary,Davis,mary.davis@must.com,+4857261039,Support,Customer Support Rep,2022-09-01,40000,Active
